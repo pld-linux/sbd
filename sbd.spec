@@ -1,12 +1,12 @@
 Summary:	Netcat-clone with strong encryption
 Summary(pl):	Klon Netcata z mocnym szyfrowaniem
 Name:		sbd
-Version:	1.36
+Version:	1.37
 Release:	1
 License:	GPL
 Group:		Networking/Admin
 Source0:	http://tigerteam.se/dl/sbd/%{name}-%{version}.tar.gz
-# Source0-md5:	866d1bf2fe156bbaf94bfcec2014767e
+# Source0-md5:	fe633081eed1e5e7ac5936b32146f2ac
 URL:		http://tigerteam.se/dl/sbd/
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
