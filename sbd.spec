@@ -3,7 +3,7 @@ Summary(pl):	Klon Netcata z mocnym szyfrowaniem
 Name:		sbd
 Version:	1.37
 Release:	1
-License:	GPL
+License:	GPL v2
 Group:		Networking/Admin
 Source0:	http://tigerteam.se/dl/sbd/%{name}-%{version}.tar.gz
 # Source0-md5:	fe633081eed1e5e7ac5936b32146f2ac
