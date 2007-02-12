@@ -1,5 +1,5 @@
 Summary:	Netcat-clone with strong encryption
-Summary(pl):	Klon Netcata z mocnym szyfrowaniem
+Summary(pl.UTF-8):   Klon Netcata z mocnym szyfrowaniem
 Name:		sbd
 Version:	1.37
 Release:	1
@@ -18,13 +18,13 @@ Devine), program execution (-e option), choosing source port,
 continuous reconnection with delay, and some other nice features. Only
 TCP/IP communication is supported.
 
-%description -l pl
-sbd to klon Netcata zaprojektowany tak, aby by³ przeno¶ny i oferowa³
-mocne szyfrowanie. Dzia³a na systemach uniksowych oraz Microsoft
-Win32. Pozwala na szyfrowanie AES-CBC-128 + HMAC-SHA1 (dziêki
-Christophe'owi Devine), uruchamianie programów (opcja -e), wybór portu
-¼ród³owego, ci±g³e ponowne ³±czenie z opó¼nieniem i parê innych
-rzeczy. Obs³ugiwana jest tylko komunikacja TCP/IP.
+%description -l pl.UTF-8
+sbd to klon Netcata zaprojektowany tak, aby byÅ‚ przenoÅ›ny i oferowaÅ‚
+mocne szyfrowanie. DziaÅ‚a na systemach uniksowych oraz Microsoft
+Win32. Pozwala na szyfrowanie AES-CBC-128 + HMAC-SHA1 (dziÄ™ki
+Christophe'owi Devine), uruchamianie programÃ³w (opcja -e), wybÃ³r portu
+ÅºrÃ³dÅ‚owego, ciÄ…gÅ‚e ponowne Å‚Ä…czenie z opÃ³Åºnieniem i parÄ™ innych
+rzeczy. ObsÅ‚ugiwana jest tylko komunikacja TCP/IP.
 
 %prep
 %setup -q
