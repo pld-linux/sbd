@@ -1,5 +1,5 @@
 Summary:	Netcat-clone with strong encryption
-Summary(pl.UTF-8):   Klon Netcata z mocnym szyfrowaniem
+Summary(pl.UTF-8):	Klon Netcata z mocnym szyfrowaniem
 Name:		sbd
 Version:	1.37
 Release:	1
