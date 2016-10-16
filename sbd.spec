@@ -5,9 +5,9 @@ Version:	1.37
 Release:	1
 License:	GPL v2
 Group:		Networking/Admin
-Source0:	http://tigerteam.se/dl/sbd/%{name}-%{version}.tar.gz
+Source0:	http://mirrors.kernel.org/gentoo/distfiles/%{name}-%{version}.tar.gz
 # Source0-md5:	fe633081eed1e5e7ac5936b32146f2ac
-URL:		http://tigerteam.se/dl/sbd/
+URL:		http://tools.kali.org/maintaining-access/sbd
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
@@ -47,4 +47,4 @@ rm -rf $RPM_BUILD_ROOT
 %files
 %defattr(644,root,root,755)
 %doc CHANGES README
-%attr(755,root,root) %{_bindir}/*
+%attr(755,root,root) %{_bindir}/sbd
